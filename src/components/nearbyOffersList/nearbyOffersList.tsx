@@ -1,4 +1,4 @@
-import NearbyOfferCard from '../NearbyOfferCard/NearbyOfferCard';
+import NearbyOfferCard from '../nearbyOfferCard/nearbyOfferCard';
 import type { Card } from '../../alltypes';
 
 type NearbyOffersListProps = {

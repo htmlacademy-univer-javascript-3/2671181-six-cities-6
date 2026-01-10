@@ -1,4 +1,4 @@
-import OffersList from '../../components/offersList/OffersList';
+import OffersList from '../../components/offersList/offersList';
 import Map from '../../components/map/map';
 import Header from '../../components/header/header';
 import { useState } from 'react';

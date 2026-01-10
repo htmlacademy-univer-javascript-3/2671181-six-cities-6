@@ -1,4 +1,4 @@
-import FavoritesList from '../../components/FavoritesList/FavoritesList';
+import FavoritesList from '../../components/favoritesList/favoritesList';
 import Header from '../../components/header/header';
 import { Link } from 'react-router-dom';
 import type { FavoriteCard } from '../../alltypes';
